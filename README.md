@@ -1,4 +1,4 @@
-<img src="./images/Picture.gif">
+<img src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/chat-app.jpg">
 
 ## Tech Stack
 <p align="left"> 
