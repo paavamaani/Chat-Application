@@ -1,5 +1,6 @@
 # Chat Application
 
+<p> Chat application clone is a software program designed to imitate the functionality and user experience of a chat application. It allows users to communicate in real-time with text messages. The platform typically includes features such as group and individual chats, notifications, the ability to see if a message has been read, and a user interface for organizing and accessing conversations. Which is deployed in the AWS Elastic Compute Cloud (EC2) environment and is equipped with an autoscaling load balancer to manage high traffic demands </p>
 <img src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/chat-app.jpg">
 
 ## Tech Stack
