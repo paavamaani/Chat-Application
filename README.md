@@ -9,7 +9,7 @@
  
  ### Frontend
 
-- ReactJs
+- React JS
 - Redux
 
 ### Backend
