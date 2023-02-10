@@ -1,3 +1,5 @@
+# Chat Application
+
 <img src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/chat-app.jpg">
 
 ## Tech Stack
@@ -24,6 +26,12 @@
 ### Deployment
 
 - AWS EC2
+
+## Steps to run the application
+
+git clone repo
+Install dependencies for both frontend and backend npm install npm install
+Run backend - npm start Run frontend - npm start
 
 ## Screenshots of the App
 
