@@ -12,11 +12,12 @@
 
 ### Backend
 
-- NodeJs
+- Node JS
+- Express JS
 
 ### Database
 
-- MongoDb
+- MongoDB
 - MySQL
 
 ### Deployment
