@@ -14,6 +14,7 @@
 
 - Node JS
 - Express JS
+- Socket.IO
 
 ### Database
 
