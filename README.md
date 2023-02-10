@@ -29,9 +29,10 @@
 
 ## Steps to run the application
 
-git clone repo
-Install dependencies for both frontend and backend npm install npm install
-Run backend - npm start Run frontend - npm start
+1. git clone [repo](https://github.com/paavamaani/Chat-Application.git)
+2. Install dependencies for both frontend and backend npm install ```npm install```
+3. Run backend - ```npm start``` 
+   Run frontend - ```npm start```
 
 ## Screenshots of the App
 
